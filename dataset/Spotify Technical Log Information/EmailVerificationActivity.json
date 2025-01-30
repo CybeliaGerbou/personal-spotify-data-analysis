@@ -1,0 +1,18 @@
+[
+  {
+    "message_email": "utsukushibaka@gmail.com",
+    "timestamp_utc": "2024-11-13T15:22:26.394Z",
+    "context_time": 1731511346394,
+    "message_message_id": "12909202671089156",
+    "message_source": "MAGIC_LINK",
+    "message_success": true
+  },
+  {
+    "message_email": "utsukushibaka@gmail.com",
+    "timestamp_utc": "2024-11-13T15:23:57.873Z",
+    "context_time": 1731511437873,
+    "message_message_id": "12909764573034930",
+    "message_source": "PASSWORD_RESET",
+    "message_success": true
+  }
+]

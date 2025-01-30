@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp_utc": "2024-11-30T21:08:35.671Z",
+    "context_application_version": "8.9.96.476",
+    "context_conn_country": "FR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-A356B",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "14",
+    "context_receiver_service_timestamp": 1733000940775,
+    "context_time": 1733000915671,
+    "message_reason": "alreadyConnectedToWiredDevice"
+  },
+  {
+    "timestamp_utc": "2024-11-30T21:08:35.671Z",
+    "context_application_version": "8.9.96.476",
+    "context_conn_country": "FR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-A356B",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "14",
+    "context_receiver_service_timestamp": 1733000940775,
+    "context_time": 1733000915671,
+    "message_reason": "alreadyConnectedToWiredDevice"
+  },
+  {
+    "timestamp_utc": "2024-12-01T17:12:04.772Z",
+    "context_application_version": "8.9.96.476",
+    "context_conn_country": "FR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-A356B",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "14",
+    "context_receiver_service_timestamp": 1733073150132,
+    "context_time": 1733073124772,
+    "message_reason": "alreadyConnectedToBluetoothOrAirplayDevice"
+  }
+]

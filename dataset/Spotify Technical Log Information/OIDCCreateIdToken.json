@@ -1,0 +1,13 @@
+[
+  {
+    "timestamp_utc": "2024-12-04T16:48:04.687Z",
+    "context_time": 1733330884687,
+    "message_amr": "",
+    "message_auth_time": 1733330884,
+    "message_expires_in": 3595,
+    "message_issued_at": 1733330884685,
+    "message_issuer": "https://accounts.spotify.com",
+    "message_jti": "8cd7fcb5-65d0-4660-a082-1cda23fcbc27",
+    "message_standard_claims_scopes": ""
+  }
+]

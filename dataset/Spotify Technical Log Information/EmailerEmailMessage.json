@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp_utc": "2024-12-05T21:14:55.008Z",
+    "context_time": 1733433295008,
+    "message_event_type": "EMAIL_PROVIDER_SUCCESS",
+    "message_send_at": "null"
+  },
+  {
+    "timestamp_utc": "2024-12-20T09:15:43.808Z",
+    "context_time": 1734686143808,
+    "message_event_type": "EMAIL_PROVIDER_SUCCESS",
+    "message_send_at": "null"
+  },
+  {
+    "timestamp_utc": "2024-11-25T15:04:43.984Z",
+    "context_time": 1732547083984,
+    "message_event_type": "EMAIL_PROVIDER_SUCCESS",
+    "message_send_at": "null"
+  },
+  {
+    "timestamp_utc": "2024-12-31T08:18:20.077Z",
+    "context_time": 1735633100077,
+    "message_event_type": "EMAIL_PROVIDER_SUCCESS",
+    "message_send_at": "null"
+  },
+  {
+    "timestamp_utc": "2024-12-02T14:19:22.496Z",
+    "context_time": 1733149162496,
+    "message_event_type": "EMAIL_PROVIDER_SUCCESS",
+    "message_send_at": "null"
+  },
+  {
+    "timestamp_utc": "2024-12-29T22:08:15.142Z",
+    "context_time": 1735510095142,
+    "message_event_type": "EMAIL_PROVIDER_SUCCESS",
+    "message_send_at": "null"
+  },
+  {
+    "timestamp_utc": "2024-12-09T14:16:28.417Z",
+    "context_time": 1733753788417,
+    "message_event_type": "EMAIL_PROVIDER_SUCCESS",
+    "message_send_at": "null"
+  },
+  {
+    "timestamp_utc": "2024-12-27T10:15:06.442Z",
+    "context_time": 1735294506442,
+    "message_event_type": "EMAIL_PROVIDER_SUCCESS",
+    "message_send_at": "null"
+  },
+  {
+    "timestamp_utc": "2024-11-02T09:05:03.976Z",
+    "context_time": 1730538303976,
+    "message_event_type": "EMAIL_PROVIDER_SUCCESS",
+    "message_send_at": "null"
+  },
+  {
+    "timestamp_utc": "2024-11-10T12:17:09.529Z",
+    "context_time": 1731241029529,
+    "message_event_type": "EMAIL_PROVIDER_SUCCESS",
+    "message_send_at": "null"
+  },
+  {
+    "timestamp_utc": "2024-12-21T22:16:50.026Z",
+    "context_time": 1734819410026,
+    "message_event_type": "EMAIL_PROVIDER_SUCCESS",
+    "message_send_at": "null"
+  },
+  {
+    "timestamp_utc": "2024-11-18T23:09:30.961Z",
+    "context_time": 1731971370961,
+    "message_event_type": "EMAIL_PROVIDER_SUCCESS",
+    "message_send_at": "null"
+  },
+  {
+    "timestamp_utc": "2024-10-25T07:18:48.779Z",
+    "context_time": 1729840728779,
+    "message_event_type": "EMAIL_PROVIDER_SUCCESS",
+    "message_send_at": "null"
+  },
+  {
+    "timestamp_utc": "2024-11-15T22:02:32.592Z",
+    "context_time": 1731708152592,
+    "message_event_type": "EMAIL_PROVIDER_SUCCESS",
+    "message_send_at": "null"
+  },
+  {
+    "timestamp_utc": "2024-10-24T19:15:04.896Z",
+    "context_time": 1729797304896,
+    "message_event_type": "EMAIL_PROVIDER_SUCCESS",
+    "message_send_at": "null"
+  },
+  {
+    "timestamp_utc": "2025-01-06T12:19:37.008Z",
+    "context_time": 1736165977008,
+    "message_event_type": "EMAIL_PROVIDER_SUCCESS",
+    "message_send_at": "null"
+  },
+  {
+    "timestamp_utc": "2024-11-27T15:12:51.391Z",
+    "context_time": 1732720371391,
+    "message_event_type": "EMAIL_PROVIDER_SUCCESS",
+    "message_send_at": "null"
+  },
+  {
+    "timestamp_utc": "2024-12-10T23:18:06.729Z",
+    "context_time": 1733872686729,
+    "message_event_type": "EMAIL_PROVIDER_SUCCESS",
+    "message_send_at": "null"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "message_device_id": "64636565323962393432663233666231",
+    "message_name": "A35 de Cybélia",
+    "timestamp_utc": "2024-12-17T12:08:10.458Z",
+    "context_time": 1734437290458,
+    "message_cache_id": "b42727622e8150a89a9f9dc487cc498d",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "64636565323962393432663233666231",
+    "message_name": "A35 de Cybélia",
+    "timestamp_utc": "2024-11-22T12:50:30.072Z",
+    "context_time": 1732279830072,
+    "message_cache_id": "6d3c926a4165f850edd0695a41b1879e",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "64636565323962393432663233666231",
+    "message_name": "SM-A356B",
+    "timestamp_utc": "2024-11-13T15:24:11.258Z",
+    "context_time": 1731511451258,
+    "message_cache_id": "6d3c926a4165f850edd0695a41b1879e",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "63636333666662313637663636633431",
+    "message_name": "Pixel 4a",
+    "timestamp_utc": "2024-10-28T20:20:06.465Z",
+    "context_time": 1730146806465,
+    "message_cache_id": "f728b89b2e741dc8b828f92d425735b5",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "64636565323962393432663233666231",
+    "message_name": "A35 de Cybélia",
+    "timestamp_utc": "2025-01-18T11:09:08.845Z",
+    "context_time": 1737198548845,
+    "message_cache_id": "b42727622e8150a89a9f9dc487cc498d",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "62646337636163306131313834393737",
+    "message_name": "SM-A356B",
+    "timestamp_utc": "2024-12-04T16:49:12.087Z",
+    "context_time": 1733330952087,
+    "message_cache_id": "01e18ba2620726f2faadc3ee08614ba1",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "64636565323962393432663233666231",
+    "message_name": "A35 de Cybélia",
+    "timestamp_utc": "2025-01-02T09:24:38.305Z",
+    "context_time": 1735809878305,
+    "message_cache_id": "b42727622e8150a89a9f9dc487cc498d",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "63636333666662313637663636633431",
+    "message_name": "Pixel 4a",
+    "timestamp_utc": "2024-11-04T21:10:18.185Z",
+    "context_time": 1730754618185,
+    "message_cache_id": "f728b89b2e741dc8b828f92d425735b5",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "64636565323962393432663233666231",
+    "message_name": "A35 de Cybélia",
+    "timestamp_utc": "2024-12-26T05:54:05.462Z",
+    "context_time": 1735192445462,
+    "message_cache_id": "b42727622e8150a89a9f9dc487cc498d",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "63636333666662313637663636633431",
+    "message_name": "Pixel 4a",
+    "timestamp_utc": "2024-11-11T22:48:41.913Z",
+    "context_time": 1731365321913,
+    "message_cache_id": "f728b89b2e741dc8b828f92d425735b5",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "64636565323962393432663233666231",
+    "message_name": "A35 de Cybélia",
+    "timestamp_utc": "2024-11-29T19:15:54.177Z",
+    "context_time": 1732907754177,
+    "message_cache_id": "6d3c926a4165f850edd0695a41b1879e",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "64636565323962393432663233666231",
+    "message_name": "SM-A356B",
+    "timestamp_utc": "2024-12-10T09:05:59.039Z",
+    "context_time": 1733821559039,
+    "message_cache_id": "b42727622e8150a89a9f9dc487cc498d",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  },
+  {
+    "message_device_id": "64636565323962393432663233666231",
+    "message_name": "A35 de Cybélia",
+    "timestamp_utc": "2025-01-09T13:09:55.734Z",
+    "context_time": 1736428195734,
+    "message_cache_id": "b42727622e8150a89a9f9dc487cc498d",
+    "message_connect_type": "SMARTPHONE",
+    "message_event": "put",
+    "message_platform": "ANDROID_ARM"
+  }
+]

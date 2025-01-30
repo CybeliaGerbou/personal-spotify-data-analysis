@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp_utc": "2024-11-24T18:06:43.986Z",
+    "context_application_version": "8.9.94.470",
+    "context_conn_country": "FR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-A356B",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "14",
+    "context_receiver_service_timestamp": 1732471607883,
+    "context_time": 1732471603986,
+    "message_duplicate_tracks": 0,
+    "message_failed_tracks": 0,
+    "message_invalid_tracks": 0,
+    "message_matched_tracks": 0,
+    "message_source": "",
+    "message_tracks": 1
+  }
+]

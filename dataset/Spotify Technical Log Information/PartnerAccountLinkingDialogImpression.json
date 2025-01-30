@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp_utc": "2024-12-04T16:49:13.884Z",
+    "context_application_version": "8.9.96.476",
+    "context_conn_country": "FR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-A356B",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "14",
+    "context_receiver_service_timestamp": 1733330954891,
+    "context_time": 1733330953884,
+    "message_impression_id": "f4bef3c1-1a99-477a-bdcc-c14c20d2c34e",
+    "message_impression_reason": "first_startup",
+    "message_linking_id": "4063e840-4519-46cc-90bb-ed60c79de3ea",
+    "message_times_shown": 0
+  }
+]

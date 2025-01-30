@@ -1,0 +1,282 @@
+[
+  {
+    "timestamp_utc": "2024-12-06T15:08:08.622Z",
+    "context_time": 1733497688622,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-05T16:54:11.131Z",
+    "context_time": 1733417651131,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-01T17:12:02.312Z",
+    "context_time": 1733073122312,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-08T10:36:45.262Z",
+    "context_time": 1733654205262,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-06T19:16:46.213Z",
+    "context_time": 1733512606213,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-04T16:54:00.715Z",
+    "context_time": 1733331240715,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-01T20:42:18.903Z",
+    "context_time": 1733085738903,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-11-30T21:14:32.515Z",
+    "context_time": 1733001272515,
+    "message_audio_output_device_name": "A35 de Cybélia",
+    "message_audio_output_device_type": "LINE_OUT",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-11-29T19:15:58.631Z",
+    "context_time": 1732907758631,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-01T17:15:44.026Z",
+    "context_time": 1733073344026,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-04T16:50:54.369Z",
+    "context_time": 1733331054369,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-01T17:12:02.284Z",
+    "context_time": 1733073122284,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-04T18:19:21.407Z",
+    "context_time": 1733336361407,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-06T19:16:46.209Z",
+    "context_time": 1733512606209,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-11-30T21:08:33.320Z",
+    "context_time": 1733000913320,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-05T18:19:16.813Z",
+    "context_time": 1733422756813,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-04T16:48:02.154Z",
+    "context_time": 1733330882154,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-04T14:35:02.981Z",
+    "context_time": 1733322902981,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-04T16:49:14.438Z",
+    "context_time": 1733330954438,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-04T16:55:01.333Z",
+    "context_time": 1733331301333,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-04T16:48:02.113Z",
+    "context_time": 1733330882113,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-11-30T21:11:55.913Z",
+    "context_time": 1733001115913,
+    "message_audio_output_device_name": "A35 de Cybélia",
+    "message_audio_output_device_type": "LINE_OUT",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-04T16:48:10.861Z",
+    "context_time": 1733330890861,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-04T16:48:14.115Z",
+    "context_time": 1733330894115,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-01T20:42:18.882Z",
+    "context_time": 1733085738882,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-04T16:49:14.447Z",
+    "context_time": 1733330954447,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-11-29T19:18:13.508Z",
+    "context_time": 1732907893508,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-04T14:35:02.938Z",
+    "context_time": 1733322902938,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-11-30T21:08:33.305Z",
+    "context_time": 1733000913305,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-04T16:49:26.954Z",
+    "context_time": 1733330966954,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-04T16:52:11.315Z",
+    "context_time": 1733331131315,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-04T16:53:11.060Z",
+    "context_time": 1733331191060,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-11-30T21:12:45.870Z",
+    "context_time": 1733001165870,
+    "message_audio_output_device_name": "A35 de Cybélia",
+    "message_audio_output_device_type": "LINE_OUT",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-12-04T16:54:36.224Z",
+    "context_time": 1733331276224,
+    "message_audio_output_device_name": "",
+    "message_audio_output_device_type": "UNKNOWN_AUDIO_OUTPUT_DEVICE_TYPE",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  },
+  {
+    "timestamp_utc": "2024-11-30T21:18:56.922Z",
+    "context_time": 1733001536922,
+    "message_audio_output_device_name": "A35 de Cybélia",
+    "message_audio_output_device_type": "LINE_OUT",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_device_type": "SMARTPHONE"
+  }
+]

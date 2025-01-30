@@ -1,0 +1,28 @@
+[
+  {
+    "timestamp_utc": "2024-11-29T20:00:10.302Z",
+    "context_application_version": "8.9.96.476",
+    "context_conn_country": "FR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-A356B",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "14",
+    "context_receiver_service_timestamp": 1732910419907,
+    "context_time": 1732910410302,
+    "message_power_state": "poweredOff"
+  },
+  {
+    "timestamp_utc": "2024-11-29T20:26:29.554Z",
+    "context_application_version": "8.9.96.476",
+    "context_conn_country": "FR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-A356B",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "14",
+    "context_receiver_service_timestamp": 1732912050708,
+    "context_time": 1732911989554,
+    "message_power_state": "poweredOn"
+  }
+]

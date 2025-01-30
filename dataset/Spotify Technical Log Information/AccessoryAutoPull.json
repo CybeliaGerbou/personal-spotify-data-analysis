@@ -1,0 +1,18 @@
+[
+  {
+    "message_previous_connected_device_id": "9c4916d40b7bffec74b698d672a0cb8f22e7d60c",
+    "timestamp_utc": "2025-01-13T14:51:23.441Z",
+    "context_application_version": "8.10.9.722",
+    "context_conn_country": "FR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-A356B",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "14",
+    "context_receiver_service_timestamp": 1736779886563,
+    "context_time": 1736779883441,
+    "message_accessory_type": "bluetooth",
+    "message_app_state": "background",
+    "message_playback_state": "playing"
+  }
+]

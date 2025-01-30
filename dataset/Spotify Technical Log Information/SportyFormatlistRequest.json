@@ -1,0 +1,466 @@
+[
+  {
+    "timestamp_utc": "2024-12-18T16:35:17.869Z",
+    "context_time": 1734539717869,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1203,
+    "message_session_id": "ssp~06298dffbb3837eda39d5ddaad4af578f90c"
+  },
+  {
+    "timestamp_utc": "2024-11-01T03:43:25.114Z",
+    "context_time": 1730432605114,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1193,
+    "message_session_id": "ssp~0625d1bcbc04eac927df8517c24e1aa4a4f7"
+  },
+  {
+    "timestamp_utc": "2025-01-06T09:22:38.092Z",
+    "context_time": 1736155358092,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1212,
+    "message_session_id": "ssp~062b062b647fd91f7f7bdd5efb86dd8c2b8f"
+  },
+  {
+    "timestamp_utc": "2024-12-21T16:32:53.325Z",
+    "context_time": 1734798773325,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1208,
+    "message_session_id": "ssp~0629ca50a3b73c3b53cf137e12353a31795e"
+  },
+  {
+    "timestamp_utc": "2024-11-01T15:17:49.448Z",
+    "context_time": 1730474269448,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1195,
+    "message_session_id": "ssp~0625db701f43e04a68b462561b006a105bb5"
+  },
+  {
+    "timestamp_utc": "2024-12-11T18:07:19.715Z",
+    "context_time": 1733940439715,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DWZw4RckG6Eyg",
+    "message_playlist_version": 10,
+    "message_session_id": "ssp~06290277f84de87a165eba27410d9f59ad26"
+  },
+  {
+    "timestamp_utc": "2025-01-09T13:06:53.744Z",
+    "context_time": 1736428013744,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1212,
+    "message_session_id": "ssp~062b45a6ef8ba995ad02c6c210671e8c4467"
+  },
+  {
+    "timestamp_utc": "2024-12-04T16:48:01.715Z",
+    "context_time": 1733330881715,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1201,
+    "message_session_id": "ssp~0628748b7b4f04975ff3869e8b8a7038db0a"
+  },
+  {
+    "timestamp_utc": "2024-12-12T12:39:35.985Z",
+    "context_time": 1734007175985,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1202,
+    "message_session_id": "ssp~06291201c2f8ba7732daff1b990c72107e04"
+  },
+  {
+    "timestamp_utc": "2024-11-17T17:03:45.919Z",
+    "context_time": 1731863025919,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1197,
+    "message_session_id": "ssp~06271ec8753abceb17676c6d2f6b5de75b8d"
+  },
+  {
+    "timestamp_utc": "2024-11-04T21:07:43.633Z",
+    "context_time": 1730754463633,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1195,
+    "message_session_id": "ssp~06261cacff3768d72e24ff17fab09e40a508"
+  },
+  {
+    "timestamp_utc": "2024-12-10T09:06:00.148Z",
+    "context_time": 1733821560148,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1202,
+    "message_session_id": "ssp~0628e6ca31fc8a9a6fcf3a29e76884bd426d"
+  },
+  {
+    "timestamp_utc": "2024-11-10T14:27:42.961Z",
+    "context_time": 1731248862961,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1196,
+    "message_session_id": "ssp~06268fc97e3fa6317ac99de49fc8a95a6c44"
+  },
+  {
+    "timestamp_utc": "2024-12-06T19:16:45.978Z",
+    "context_time": 1733512605978,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1202,
+    "message_session_id": "ssp~06289edb1795e0e52f80876fe7a889b49072"
+  },
+  {
+    "timestamp_utc": "2024-12-17T12:04:03.061Z",
+    "context_time": 1734437043061,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1203,
+    "message_session_id": "ssp~06297617d5ff8ceef7a9ad0d029b48d96663"
+  },
+  {
+    "timestamp_utc": "2025-01-10T05:26:19.740Z",
+    "context_time": 1736486779740,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1213,
+    "message_session_id": "ssp~062b5355a99716f5ac7b725fc852aecfd304"
+  },
+  {
+    "timestamp_utc": "2024-10-28T20:17:17.594Z",
+    "context_time": 1730146637594,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1193,
+    "message_session_id": "ssp~06258f27bdeb12d1859a8880526c328ee349"
+  },
+  {
+    "timestamp_utc": "2024-11-14T08:04:52.487Z",
+    "context_time": 1731571492487,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1196,
+    "message_session_id": "ssp~0626dae7b6122d1cbe5b5d24b441e4fef1fe"
+  },
+  {
+    "timestamp_utc": "2024-10-31T21:26:59.522Z",
+    "context_time": 1730410019522,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1193,
+    "message_session_id": "ssp~0625cc7a8724aa62237257fa40b652b7dc80"
+  },
+  {
+    "timestamp_utc": "2024-12-27T18:34:06.021Z",
+    "context_time": 1735324446021,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1210,
+    "message_session_id": "ssp~062a44b52c7b383fd2fc27fcf047f7ee9934"
+  },
+  {
+    "timestamp_utc": "2024-12-11T18:07:14.899Z",
+    "context_time": 1733940434899,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1202,
+    "message_session_id": "ssp~06290277aed7753e6f4ddb18623dad2327a0"
+  },
+  {
+    "timestamp_utc": "2024-11-24T18:06:20.482Z",
+    "context_time": 1732471580482,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1200,
+    "message_session_id": "ssp~0627ac7922f876ad07d467c3ab1900ad3a04"
+  },
+  {
+    "timestamp_utc": "2024-12-19T10:19:51.249Z",
+    "context_time": 1734603591249,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1203,
+    "message_session_id": "ssp~06299cdee19cd4dc7482dddd52a522ba019d"
+  },
+  {
+    "timestamp_utc": "2024-11-25T15:11:35.865Z",
+    "context_time": 1732547495865,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1200,
+    "message_session_id": "ssp~0627be260bbcd7eae9aca9b2b0f51cb06407"
+  },
+  {
+    "timestamp_utc": "2024-11-30T21:13:52.208Z",
+    "context_time": 1733001232208,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1201,
+    "message_session_id": "ssp~062827cad71d4782f131483a6f7b37dab1a3"
+  },
+  {
+    "timestamp_utc": "2025-01-15T11:10:03.056Z",
+    "context_time": 1736939403056,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1213,
+    "message_session_id": "ssp~062bbcb81d364cde2bfea6383f12b0d8912f"
+  },
+  {
+    "timestamp_utc": "2024-12-14T09:41:53.698Z",
+    "context_time": 1734169313698,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1203,
+    "message_session_id": "ssp~062937c1ec24fd9b87eaae7458b0eaf4c6a2"
+  },
+  {
+    "timestamp_utc": "2024-11-15T16:05:49.528Z",
+    "context_time": 1731686749528,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1197,
+    "message_session_id": "ssp~0626f5bd90f4f58260a1fec037fb78c3abab"
+  },
+  {
+    "timestamp_utc": "2025-01-02T09:21:39.692Z",
+    "context_time": 1735809699692,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1210,
+    "message_session_id": "ssp~062ab5b08be57f2a8b97e5ed0127df579d89"
+  },
+  {
+    "timestamp_utc": "2024-12-14T10:07:32.871Z",
+    "context_time": 1734170852871,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DWWNlI0CRgWup",
+    "message_playlist_version": 92,
+    "message_session_id": "ssp~0629381da9fec30e59cdb2eea1419107c7aa"
+  },
+  {
+    "timestamp_utc": "2024-12-11T18:07:19.726Z",
+    "context_time": 1733940439726,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DWVTgv6YdPq09",
+    "message_playlist_version": 17,
+    "message_session_id": "ssp~06290277f87dc6423544e55dbf23bbf363cf"
+  },
+  {
+    "timestamp_utc": "2024-12-04T14:35:01.189Z",
+    "context_time": 1733322901189,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1201,
+    "message_session_id": "ssp~062872afcd537156d60a961b1f658edce910"
+  },
+  {
+    "timestamp_utc": "2024-12-24T08:48:45.365Z",
+    "context_time": 1735030125365,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1208,
+    "message_session_id": "ssp~062a002e4babfa3c86346a6636ab95730825"
+  },
+  {
+    "timestamp_utc": "2025-01-03T16:49:22.811Z",
+    "context_time": 1735922962811,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1212,
+    "message_session_id": "ssp~062ad00f8de90e200511a18c5da65d3e88f6"
+  },
+  {
+    "timestamp_utc": "2024-11-18T19:50:02.499Z",
+    "context_time": 1731959402499,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1197,
+    "message_session_id": "ssp~06273538f32f2fb59ef384486a9ca721c627"
+  },
+  {
+    "timestamp_utc": "2024-12-11T18:07:19.713Z",
+    "context_time": 1733940439713,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX2H2Plf6Ogpv",
+    "message_playlist_version": 4,
+    "message_session_id": "ssp~06290277f845575d50aac7e681b265a8b9b1"
+  },
+  {
+    "timestamp_utc": "2024-10-31T21:26:59.528Z",
+    "context_time": 1730410019528,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1193,
+    "message_session_id": "ssp~0625cc7a8747ada3c96b43029b5cc451ada7"
+  },
+  {
+    "timestamp_utc": "2025-01-13T09:25:25.981Z",
+    "context_time": 1736760325981,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1213,
+    "message_session_id": "ssp~062b930649e43ec809de9f8c665aaa06f976"
+  },
+  {
+    "timestamp_utc": "2024-11-13T21:07:11.501Z",
+    "context_time": 1731532031501,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1196,
+    "message_session_id": "ssp~0626d1b7a75179e9173b575bb0fded5b54b7"
+  },
+  {
+    "timestamp_utc": "2024-11-29T19:01:20.399Z",
+    "context_time": 1732906880399,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1201,
+    "message_session_id": "ssp~062811d308ba182eefa070b412a9698de179"
+  },
+  {
+    "timestamp_utc": "2025-01-05T16:38:15.505Z",
+    "context_time": 1736095095505,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1212,
+    "message_session_id": "ssp~062af823762a9fdeb24cfe08bfc769fe1b7d"
+  },
+  {
+    "timestamp_utc": "2024-12-26T05:50:18.054Z",
+    "context_time": 1735192218054,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1208,
+    "message_session_id": "ssp~062a25ebc5e19a8ac928b27312b72e97dacd"
+  },
+  {
+    "timestamp_utc": "2024-12-01T17:12:01.066Z",
+    "context_time": 1733073121066,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1201,
+    "message_session_id": "ssp~06283887bfe28b88c5e52fae20d388c80be2"
+  },
+  {
+    "timestamp_utc": "2024-10-25T12:32:39.052Z",
+    "context_time": 1729859559052,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1192,
+    "message_session_id": "ssp~06254c5086e946e450a45f9bac0755c285ba"
+  },
+  {
+    "timestamp_utc": "2024-11-01T02:40:06.022Z",
+    "context_time": 1730428806022,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1193,
+    "message_session_id": "ssp~0625d0da4a79cfcc489f864ec948b76d6bee"
+  },
+  {
+    "timestamp_utc": "2024-11-25T15:11:35.872Z",
+    "context_time": 1732547495872,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1200,
+    "message_session_id": "ssp~0627be260bdd24660dae1d63475864bcd828"
+  },
+  {
+    "timestamp_utc": "2025-01-17T21:06:19.202Z",
+    "context_time": 1737147979202,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1214,
+    "message_session_id": "ssp~062bed48389a01a51ea1e113ee5cc265df14"
+  },
+  {
+    "timestamp_utc": "2024-10-24T07:19:40.338Z",
+    "context_time": 1729754380338,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1189,
+    "message_session_id": "ssp~062533d36325b2312f8d2b2250e62adc3abb"
+  },
+  {
+    "timestamp_utc": "2024-12-16T15:30:08.809Z",
+    "context_time": 1734363008809,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1203,
+    "message_session_id": "ssp~062964db0cdb242d8bed85a0392cf29490bb"
+  },
+  {
+    "timestamp_utc": "2025-01-20T13:13:23.133Z",
+    "context_time": 1737378803133,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DWV7EzJMK2FUI",
+    "message_playlist_version": 196,
+    "message_session_id": "ssp~062c23066630a7c292689127b827b5cf93cf"
+  },
+  {
+    "timestamp_utc": "2024-12-24T12:02:04.662Z",
+    "context_time": 1735041724662,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1208,
+    "message_session_id": "ssp~062a02e1aad1cc0dcb7fd7f019648f462e14"
+  },
+  {
+    "timestamp_utc": "2024-11-13T15:24:12.161Z",
+    "context_time": 1731511452161,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1196,
+    "message_session_id": "ssp~0626cced077673ef8abea67cd41873957a66"
+  },
+  {
+    "timestamp_utc": "2024-11-26T08:18:31.058Z",
+    "context_time": 1732609111058,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1200,
+    "message_session_id": "ssp~0627cc7e990c8eb90c64dbfa586c1ab2e8dc"
+  },
+  {
+    "timestamp_utc": "2024-10-31T23:45:38.734Z",
+    "context_time": 1730418338734,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1193,
+    "message_session_id": "ssp~0625ce6a6445b7e62ec4f1826a9ccea0826a"
+  },
+  {
+    "timestamp_utc": "2024-11-01T02:40:05.997Z",
+    "context_time": 1730428805997,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1193,
+    "message_session_id": "ssp~0625d0da4a0eb3090a2c2f8658738f7b5d6f"
+  },
+  {
+    "timestamp_utc": "2024-11-08T18:16:06.364Z",
+    "context_time": 1731089766364,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1196,
+    "message_session_id": "ssp~06266abe98b01eefe06f460b89030fd360b8"
+  },
+  {
+    "timestamp_utc": "2024-12-30T05:04:35.029Z",
+    "context_time": 1735535075029,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1210,
+    "message_session_id": "ssp~062a75bfa421a8639e51cd111225b3912d2b"
+  },
+  {
+    "timestamp_utc": "2024-11-22T12:47:14.902Z",
+    "context_time": 1732279634902,
+    "message_platform": "unknown",
+    "message_playlist_id": "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+    "message_playlist_version": 1199,
+    "message_session_id": "ssp~06277fc8498f5953f6c9277fe19b74716388"
+  }
+]

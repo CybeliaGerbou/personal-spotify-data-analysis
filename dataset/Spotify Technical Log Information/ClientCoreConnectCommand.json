@@ -1,0 +1,27 @@
+[
+  {
+    "message_target_device_id": "6742be9f298f1fcab8f43b0eba4568b3e4f82490",
+    "timestamp_utc": "2024-12-26T09:51:28.117Z",
+    "context_application_version": "8.10.9.722",
+    "context_conn_country": "FR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-A356B",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "14",
+    "context_receiver_service_timestamp": 1735206689364,
+    "context_time": 1735206688117,
+    "message_ack_duration": 1162,
+    "message_command_id": null,
+    "message_command_type": "update context",
+    "message_context_player_error_message": null,
+    "message_duration": 1013,
+    "message_http_client_error": null,
+    "message_http_response": null,
+    "message_http_status_code": 200,
+    "message_interaction_ids": "",
+    "message_result": "success",
+    "message_target_device_brand": "spotify",
+    "message_target_device_model": "web_player"
+  }
+]

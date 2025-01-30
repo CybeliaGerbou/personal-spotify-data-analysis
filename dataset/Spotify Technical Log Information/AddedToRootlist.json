@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp_utc": "2025-01-20T13:01:17.868Z",
+    "context_time": 1737378077868,
+    "message_client_platform": 24,
+    "message_item_uri": "spotify:playlist:2jYIsjlurFYfzS2LeXNZsv",
+    "message_item_uri_kind": "playlist_v2"
+  },
+  {
+    "timestamp_utc": "2024-11-17T18:26:24.066Z",
+    "context_time": 1731867984066,
+    "message_client_platform": 6,
+    "message_item_uri": "spotify:playlist:1o7RXRCb5GlC7zfGUiDwQY",
+    "message_item_uri_kind": "playlist_v2"
+  },
+  {
+    "timestamp_utc": "2025-01-20T13:06:41.777Z",
+    "context_time": 1737378401777,
+    "message_client_platform": 24,
+    "message_item_uri": "spotify:playlist:5n0kGhX94pAsDc9uZ9R2ys",
+    "message_item_uri_kind": "playlist_v2"
+  },
+  {
+    "timestamp_utc": "2025-01-20T13:04:15.675Z",
+    "context_time": 1737378255675,
+    "message_client_platform": 24,
+    "message_item_uri": "spotify:playlist:4h4n3QbKuEULq8m5d1r7hd",
+    "message_item_uri_kind": "playlist_v2"
+  },
+  {
+    "timestamp_utc": "2024-11-18T19:50:22.446Z",
+    "context_time": 1731959422446,
+    "message_client_platform": 6,
+    "message_item_uri": "spotify:playlist:4Wskg3KO9IwBSg4pmwAFYC",
+    "message_item_uri_kind": "playlist_v2"
+  },
+  {
+    "timestamp_utc": "2024-10-28T20:25:50.463Z",
+    "context_time": 1730147150463,
+    "message_client_platform": 6,
+    "message_item_uri": "spotify:playlist:1i87LqGlcf19pWtvP9iScN",
+    "message_item_uri_kind": "playlist_v2"
+  },
+  {
+    "timestamp_utc": "2024-12-16T15:25:12.741Z",
+    "context_time": 1734362712741,
+    "message_client_platform": 6,
+    "message_item_uri": "spotify:playlist:1r6WML6U17XgTOxZKBZRLe",
+    "message_item_uri_kind": "playlist_v2"
+  },
+  {
+    "timestamp_utc": "2025-01-20T13:06:10.296Z",
+    "context_time": 1737378370296,
+    "message_client_platform": 24,
+    "message_item_uri": "spotify:playlist:6iwa6nApnSv51iOZyqltW4",
+    "message_item_uri_kind": "playlist_v2"
+  },
+  {
+    "timestamp_utc": "2025-01-20T13:05:17.041Z",
+    "context_time": 1737378317041,
+    "message_client_platform": 24,
+    "message_item_uri": "spotify:playlist:20UHz4yHW40VY1eXNPNcmy",
+    "message_item_uri_kind": "playlist_v2"
+  }
+]

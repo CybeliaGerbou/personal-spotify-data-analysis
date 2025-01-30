@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp_utc": "2024-12-10T09:05:57.751Z",
+    "context_time": 1733821557751,
+    "message_modified_settings": [
+      "selected-language"
+    ],
+    "message_removed_settings": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-12-10T09:05:58.067Z",
+    "context_time": 1733821558067,
+    "message_modified_settings": [
+      "selected-language"
+    ],
+    "message_removed_settings": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-11-13T15:24:11.233Z",
+    "context_time": 1731511451233,
+    "message_modified_settings": [
+      "selected-language"
+    ],
+    "message_removed_settings": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-12-04T16:49:14.963Z",
+    "context_time": 1733330954963,
+    "message_modified_settings": [
+      "selected-language"
+    ],
+    "message_removed_settings": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-11-13T15:23:57.872Z",
+    "context_time": 1731511437872,
+    "message_modified_settings": [
+      "email-verification-source",
+      "updated",
+      "verified-email"
+    ],
+    "message_removed_settings": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-12-04T16:49:14.133Z",
+    "context_time": 1733330954133,
+    "message_modified_settings": [
+      "selected-language"
+    ],
+    "message_removed_settings": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-11-13T15:22:26.393Z",
+    "context_time": 1731511346393,
+    "message_modified_settings": [
+      "email-verification-source",
+      "updated",
+      "verified-email"
+    ],
+    "message_removed_settings": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-11-13T15:24:12.994Z",
+    "context_time": 1731511452994,
+    "message_modified_settings": [
+      "selected-language"
+    ],
+    "message_removed_settings": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-12-10T09:06:12.793Z",
+    "context_time": 1733821572793,
+    "message_modified_settings": [
+      "selected-language"
+    ],
+    "message_removed_settings": [
+    ]
+  },
+  {
+    "timestamp_utc": "2024-12-10T09:06:29.176Z",
+    "context_time": 1733821589176,
+    "message_modified_settings": [
+      "selected-language"
+    ],
+    "message_removed_settings": [
+    ]
+  }
+]

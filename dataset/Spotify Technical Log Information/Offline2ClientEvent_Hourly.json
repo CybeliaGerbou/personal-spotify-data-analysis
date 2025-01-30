@@ -1,0 +1,47 @@
+[
+  {
+    "message_device_id": "62646337636163306131313834393737",
+    "timestamp_utc": "2024-12-04T16:49:12.238Z",
+    "context_application_version": "8.9.96.476",
+    "context_conn_country": "FR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-A356B",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "14",
+    "context_receiver_service_timestamp": 1733330954891,
+    "context_time": 1733330952238,
+    "message_cache_id": "01e18ba2620726f2faadc3ee08614ba1",
+    "message_event": "migrate"
+  },
+  {
+    "message_device_id": "64636565323962393432663233666231",
+    "timestamp_utc": "2024-11-13T15:24:12.079Z",
+    "context_application_version": "8.10.9.722",
+    "context_conn_country": "FR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-A356B",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "14",
+    "context_receiver_service_timestamp": 1731511477829,
+    "context_time": 1731511452079,
+    "message_cache_id": "6d3c926a4165f850edd0695a41b1879e",
+    "message_event": "migrate"
+  },
+  {
+    "message_device_id": "64636565323962393432663233666231",
+    "timestamp_utc": "2024-12-10T09:06:03.317Z",
+    "context_application_version": "8.10.9.722",
+    "context_conn_country": "FR",
+    "context_device_manufacturer": "samsung",
+    "context_device_model": "SM-A356B",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "14",
+    "context_receiver_service_timestamp": 1733821572587,
+    "context_time": 1733821563317,
+    "message_cache_id": "b42727622e8150a89a9f9dc487cc498d",
+    "message_event": "migrate"
+  }
+]
