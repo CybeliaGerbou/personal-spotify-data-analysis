@@ -1,0 +1,127 @@
+{
+  "topArtists": {
+    "numUniqueArtists": 865,
+    "topArtists": [
+      {
+        "artistUri": "spotify:artist:7Abx1tdwQoBDWr1nD1o62B"
+      },
+      {
+        "artistUri": "spotify:artist:3QVolfxko2UyCOtexhVTli"
+      },
+      {
+        "artistUri": "spotify:artist:4rF7c8zpCKzuSXohs2HIpA"
+      },
+      {
+        "artistUri": "spotify:artist:5qEtLvXzYdv0G7c7rR6irX"
+      },
+      {
+        "artistUri": "spotify:artist:7kZTWx6cRLc0TSRPq1XBMP"
+      }
+    ],
+    "topArtistMilliseconds": 85412372,
+    "topArtistFanPercentage": 4.1933882E-4
+  },
+  "topTracks": {
+    "topTracks": [
+      "spotify:track:3iBOe7U7kRPNIoL3QLCVu2",
+      "spotify:track:0qjDGieYf1jWBb5BuLFgzU",
+      "spotify:track:6ZmJ0qoGH9doeb9z8Ziyl9",
+      "spotify:track:2rgNFDTNDNJEFw7rTtdoFw",
+      "spotify:track:3HWGOl3tk8qNQeGbWgLhC9"
+    ],
+    "topTrackPlayCount": 246,
+    "topTrackFirstPlayedDate": "2024-01-07",
+    "distinctTracksPlayed": 1186
+  },
+  "yearlyMetrics": {
+    "totalMsListened": 861048769,
+    "mostListenedDay": "2024-03-05",
+    "mostListenedDayMinutes": 664.4481,
+    "percentGreaterThanWorldwideUsers": 75.354836
+  },
+  "musicEvolution": {
+    "eras": [
+      {
+        "key": "0",
+        "peakMonth": 1,
+        "color": "red-green",
+        "genre": "video game music",
+        "mood": "nerdy",
+        "descriptor": "vocal",
+        "pivotalArtists": [
+          "spotify:artist:4PYEhkeRZkSSGCrurjzDrX",
+          "spotify:artist:5qEtLvXzYdv0G7c7rR6irX",
+          "spotify:artist:0ZMWrgLff357yxLyEU77a1"
+        ],
+        "tracks": [
+          {
+            "trackName": "Heaven",
+            "trackUri": "spotify:track:76YdWrd7Yw9GuU0LirE088"
+          },
+          {
+            "trackName": "The Unseen Ones",
+            "trackUri": "spotify:track:5lfoxLv56xGnP8CDLfhA7r"
+          },
+          {
+            "trackName": "Heartbeat, Heartbreak",
+            "trackUri": "spotify:track:4ZJKi7HXFDG2emN6xIdbmV"
+          }
+        ]
+      },
+      {
+        "key": "1",
+        "peakMonth": 3,
+        "color": "red-blue",
+        "genre": "britpop",
+        "mood": "psychedelic",
+        "descriptor": "sitar",
+        "pivotalArtists": [
+          "spotify:artist:6bGcpvHbRHg8s0wiNyIZK1",
+          "spotify:artist:0sHeX8oQ6o7xic3wMf4NBU",
+          "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS"
+        ],
+        "tracks": [
+          {
+            "trackName": "Govinda",
+            "trackUri": "spotify:track:08bnQ31TXHNL0HA4oyG33d"
+          },
+          {
+            "trackName": "Death of Democracy",
+            "trackUri": "spotify:track:2VF4j0DsnYSbSeHpJNBD43"
+          },
+          {
+            "trackName": "Here Come My Demons",
+            "trackUri": "spotify:track:6WvkhekJJeJ8VraOcNWbEn"
+          }
+        ]
+      },
+      {
+        "key": "2",
+        "peakMonth": 9,
+        "color": "green",
+        "genre": "breakcore",
+        "mood": "weirdcore",
+        "descriptor": "noise",
+        "pivotalArtists": [
+          "spotify:artist:53e9n1LucuH3guikmtv180",
+          "spotify:artist:3QkzcRNHg1pCeifBUZGmb6",
+          "spotify:artist:4fa5UsYHCTOZC0BVP8irhC"
+        ],
+        "tracks": [
+          {
+            "trackName": "adrenaline",
+            "trackUri": "spotify:track:06Vn9DTRWIPSYFlo1WCcgr"
+          },
+          {
+            "trackName": "KATAMARI",
+            "trackUri": "spotify:track:5iAE3uBqaZm9aHUx9yy6a0"
+          },
+          {
+            "trackName": "wtf sewerslvt is callingtomewhenI browse paysite.",
+            "trackUri": "spotify:track:226pRFdUxVtoWiyB5XgVEs"
+          }
+        ]
+      }
+    ]
+  }
+}
